@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring_boot_rest_jut_0
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Akash Lande
+Implementation-Vendor-Id: com.nt
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring_boot_rest_jut_0
+Created-By: Maven Integration for Eclipse
+
